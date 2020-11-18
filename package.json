@@ -1,5 +1,5 @@
 {
-  "name": "using-tailwind-with-nextjs",
+  "name": "mb-next-tailwind-codesandbox-starter",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
@@ -19,5 +19,5 @@
   },
   "license": "ISC",
   "keywords": [],
-  "description": "Learn how to use Tailwind in a Next.js application,"
+  "description": ""
 }
